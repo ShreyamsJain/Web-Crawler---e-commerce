@@ -529,3 +529,802 @@ See /usr/include/servers/bootstrap_defs.h for the error codes.
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
 [Child 15959] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
 [Child 15959] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1511136448757	geckodriver	INFO	Listening on 127.0.0.1:51280
+1511136453780	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1511136494735	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1511136505655	Marionette	INFO	Enabled via --marionette
+2017-11-19 16:08:37.795 plugin-container[3650:711488] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511136535180	Marionette	INFO	Listening on port 51295
+1511136535492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511136535565	Marionette	DEBUG	Register listener.js for window 2147483649
+1511136597450	geckodriver	INFO	Listening on 127.0.0.1:51587
+1511136600984	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511136603581	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1511136604160	Marionette	INFO	Enabled via --marionette
+2017-11-19 16:10:06.414 plugin-container[3672:712361] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511136607272	Marionette	INFO	Listening on port 51600
+1511136607413	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511136607459	Marionette	DEBUG	Register listener.js for window 2147483649
+1511136607994	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511136608898	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511136608898	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511136619966	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bestbuy.com/"
+1511136622846	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511136624032	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511136624329	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bestbuy.com/"
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?st=cellphones+in+all&_dyncharset=UTF-8&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys, line 1: ReferenceError: osdlfm is not defined
+1511136694670	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511136753963	geckodriver	INFO	Listening on 127.0.0.1:52058
+1511136755439	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1511136756795	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1511136757471	Marionette	INFO	Enabled via --marionette
+2017-11-19 16:12:40.152 plugin-container[3703:716497] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511136761575	Marionette	INFO	Listening on port 52063
+1511136761783	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511136761858	Marionette	DEBUG	Register listener.js for window 2147483649
+1511136761994	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511136762593	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511136762593	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511136765218	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bestbuy.com/"
+1511136767877	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511136769058	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511136772966	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bestbuy.com/"
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511136840708	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511137372990	geckodriver	INFO	Listening on 127.0.0.1:53142
+1511137376390	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1511137377484	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1511137377943	Marionette	INFO	Enabled via --marionette
+2017-11-19 16:22:59.503 plugin-container[3786:721852] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511137380106	Marionette	INFO	Listening on port 53153
+1511137380700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511137380753	Marionette	DEBUG	Register listener.js for window 2147483649
+1511137380851	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511137381635	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511137381635	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511137383620	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bestbuy.com/"
+1511137385342	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511137385839	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511137386118	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bestbuy.com/"
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: https://d1af033869koo7.cloudfront.net/psp/platform/default/247fwk.js, line 7: TypeError: parent.SN.Conf is undefined
+1511137454053	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 223: TypeError: this._mm is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470016,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511138303400	geckodriver	INFO	Listening on 127.0.0.1:54722
+1511138309780	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1511138310628	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1511138311091	Marionette	INFO	Enabled via --marionette
+2017-11-19 16:38:32.571 plugin-container[3912:728408] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511138313279	Marionette	INFO	Listening on port 54741
+1511138314012	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511138314056	Marionette	DEBUG	Register listener.js for window 2147483649
+1511138314425	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511138314861	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511138314861	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511138316831	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bestbuy.com/"
+1511138318672	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511138319328	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511138319755	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bestbuy.com/"
+JavaScript error: https://s3.amazonaws.com/medianetwork/FY18Dec+Logitech+HT+Remote+Offer+-+Banners+Campaign/FY18DecLogitechHTRemoteOfferBanners_Flight1_1119-1125/Banners/FY18DecLogitechHTRemoteOfferBanners_728x90_A_1119-1125_BUNDLES_A.js, line 78: TypeError: cjs.Sprite is not a constructor
+JavaScript error: https://s3.amazonaws.com/medianetwork/FY18+Mixed+Reality+MICROSOFT/Flight+2/FY18MixedRealityMICROSOFT_728x90_A_1112-1202_Save-up-to-%24250_A/FY18MixedRealityMICROSOFT_728x90_A_1112-1202_Save-up-to-%24250_A/WMR_Banner.js?1509597782053, line 13: TypeError: cjs.Bitmap is not a constructor
+1511138388578	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511138590470	geckodriver	INFO	Listening on 127.0.0.1:55444
+1511138592765	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1511138594526	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1511138595108	Marionette	INFO	Enabled via --marionette
+2017-11-19 16:43:16.880 plugin-container[3960:737358] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511138597710	Marionette	INFO	Listening on port 55453
+1511138598417	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511138598478	Marionette	DEBUG	Register listener.js for window 2147483649
+1511138598552	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511138599006	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511138599007	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511138601617	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bestbuy.com/"
+1511138603429	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511138604532	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511138605637	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511138607869	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bestbuy.com/"
+JavaScript error: https://d1af033869koo7.cloudfront.net/psp/platform/default/247fwk.js, line 7: TypeError: parent.SN.Conf is undefined
+JavaScript error: https://d1af033869koo7.cloudfront.net/psp/platform/default/247fwk.js, line 7: TypeError: parent.SN.UserAgentParser is undefined
+1511138677093	Marionette	INFO	New connections will no longer be accepted
+1511138928765	geckodriver	INFO	Listening on 127.0.0.1:56473
+1511138930126	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1511138931174	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1511138931708	Marionette	INFO	Enabled via --marionette
+2017-11-19 16:48:53.458 plugin-container[4012:754121] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511138934432	Marionette	INFO	Listening on port 56480
+1511138935097	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511138935156	Marionette	DEBUG	Register listener.js for window 2147483649
+1511138935234	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511138935716	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511138935717	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511138938281	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bestbuy.com/"
+1511138939889	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511138941114	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511138945854	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bestbuy.com/"
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511139014469	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511145107204	geckodriver	INFO	Listening on 127.0.0.1:60136
+1511145109699	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1511145111661	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1511145112191	Marionette	INFO	Enabled via --marionette
+2017-11-19 18:31:54.189 plugin-container[4242:780764] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511145115595	Marionette	INFO	Listening on port 60148
+1511145115814	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511145115865	Marionette	DEBUG	Register listener.js for window 2147483649
+1511145116003	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511145116572	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511145116572	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511145118866	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bestbuy.com/"
+1511145120534	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511145121414	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511145121703	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bestbuy.com/"
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511145189520	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511146648070	geckodriver	INFO	Listening on 127.0.0.1:61912
+1511146648481	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1511146650614	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1511146651118	Marionette	INFO	Enabled via --marionette
+2017-11-19 18:57:32.794 plugin-container[4372:787350] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511146653454	Marionette	INFO	Listening on port 61918
+1511146653574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511146653621	Marionette	DEBUG	Register listener.js for window 2147483649
+1511146653796	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511146654371	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511146654372	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511146656691	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bestbuy.com/"
+1511146658281	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511146659063	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511146659411	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bestbuy.com/"
+JavaScript error: https://d1af033869koo7.cloudfront.net/psp/platform/default/247fwk.js, line 7: TypeError: parent.SN.Conf is undefined
+1511146727054	Marionette	INFO	New connections will no longer be accepted
+[Child 4372] WARNING: pipe error: Broken pipe: file /home/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1511147338861	geckodriver	INFO	Listening on 127.0.0.1:63518
+1511147339722	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1511147341748	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1511147342242	Marionette	INFO	Enabled via --marionette
+2017-11-19 19:09:04.140 plugin-container[4484:798888] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511147345010	Marionette	INFO	Listening on port 63524
+1511147345876	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511147345929	Marionette	DEBUG	Register listener.js for window 2147483649
+1511147346041	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511147350944	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511147350945	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511147353609	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bestbuy.com/"
+1511147355438	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511147356416	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511147356691	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bestbuy.com/"
+JavaScript error: https://assets.bbystatic.com/sc-libraries/javascript/libraries-d3479d7f4631b94864264fdd7bdf91f3.js, line 4: Error: [object Object]
+JavaScript error: https://assets.bbystatic.com/sc-libraries/javascript/libraries-d3479d7f4631b94864264fdd7bdf91f3.js, line 4: Error: [object Object]
+1511147424644	Marionette	INFO	New connections will no longer be accepted
+1511147687409	geckodriver	INFO	Listening on 127.0.0.1:64428
+1511147689792	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1511147692072	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1511147692602	Marionette	INFO	Enabled via --marionette
+2017-11-19 19:14:54.603 plugin-container[4543:806912] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511147695662	Marionette	INFO	Listening on port 64440
+1511147695972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511147696029	Marionette	DEBUG	Register listener.js for window 2147483649
+1511147696185	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511147696610	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511147696611	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511147700002	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bestbuy.com/"
+1511147702429	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511147703356	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511147704613	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bestbuy.com/"
+1511147772733	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511148142140	geckodriver	INFO	Listening on 127.0.0.1:65527
+1511148142716	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1511148143831	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1511148144927	Marionette	INFO	Enabled via --marionette
+2017-11-19 19:22:27.919 plugin-container[4608:820965] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511148148544	Marionette	INFO	Listening on port 65531
+1511148148870	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511148148938	Marionette	DEBUG	Register listener.js for window 2147483649
+1511148149096	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511148149548	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511148149549	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511148152368	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bestbuy.com/"
+1511148154974	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511148157931	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511148158458	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bestbuy.com/"
+JavaScript error: https://d1af033869koo7.cloudfront.net/psp/platform/default/247fwk.js, line 7: TypeError: parent.SN.Conf is undefined
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511148227633	Marionette	INFO	New connections will no longer be accepted
+1511148535012	geckodriver	INFO	Listening on 127.0.0.1:50189
+1511148537574	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1511148539229	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1511148539737	Marionette	INFO	Enabled via --marionette
+2017-11-19 19:29:01.264 plugin-container[4665:831226] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511148542250	Marionette	INFO	Listening on port 50201
+1511148542529	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511148542586	Marionette	DEBUG	Register listener.js for window 2147483649
+1511148542743	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511148543808	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511148543808	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511148551741	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bestbuy.com/"
+1511148553593	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511148554454	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511148554717	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bestbuy.com/"
+JavaScript error: https://d1af033869koo7.cloudfront.net/psp/platform/default/247fwk.js, line 7: TypeError: parent.SN.Conf is undefined
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511148623961	Marionette	INFO	New connections will no longer be accepted
+[Child 4665] WARNING: pipe error: Broken pipe: file /home/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511149145314	geckodriver	INFO	Listening on 127.0.0.1:51681
+1511149147882	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1511149150474	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1511149151206	Marionette	INFO	Enabled via --marionette
+2017-11-19 19:39:13.123 plugin-container[4770:849433] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511149153921	Marionette	INFO	Listening on port 51693
+1511149154015	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511149154081	Marionette	DEBUG	Register listener.js for window 2147483649
+1511149154171	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511149154665	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511149154665	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511149157652	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bestbuy.com/"
+1511149160154	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511149161828	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511149162364	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bestbuy.com/"
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?st=headphones+in+all&_dyncharset=UTF-8&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys, line 1: ReferenceError: osdlfm is not defined
+1511149233073	Marionette	INFO	New connections will no longer be accepted
+1511149430170	geckodriver	INFO	Listening on 127.0.0.1:52520
+1511149432488	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1511149435720	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1511149436525	Marionette	INFO	Enabled via --marionette
+2017-11-19 19:43:58.507 plugin-container[4819:860825] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511149439344	Marionette	INFO	Listening on port 52532
+1511149439844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511149439906	Marionette	DEBUG	Register listener.js for window 2147483649
+1511149439993	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511149440457	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511149440457	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511149442855	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bestbuy.com/"
+1511149444465	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511149445464	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511149445877	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bestbuy.com/"
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript error: https://secure-ds.serving-sys.com/BurstingCachedScripts/adkit/1_0_37_5/adkit.js, line 1: Error: Script error for: core/client/svModule
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://secure-ds.serving-sys.com/BurstingCachedScripts/adkit/1_0_37_5/adkit.js, line 1: Error: Script error for: client
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://secure-ds.serving-sys.com/BurstingCachedScripts/adkit/1_0_37_5/adkit.js, line 1: Error: Script error for: infra/dataObject
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://sdk.vindicosuite.com/verify/v2/verify.js?event=1&iid=SM__adt__55526647414071511149463923465305&pid=0&lid=0&clid=3&aid=0&cid=0&crid=0&pt=3&ppid=1&pioid=&pbkid=324904&pcid=1051883&plid=555266&dur=0&adw=728&adh=90&uebu=https%3A%2F%2Fx.vindicosuite.com%2Fevent%2F%3Fe%3D%24SUGR_CUSTOM_EVENT_ID%24%3Bl%3D555266%3Bb%3D4741407%3Bc%3D1051883%3Bsmuid%3D%3Bmsd%3D%3Ba%3D262118%3Bta%3D1511149463%3Btk%3D51739%3Bcr%3D924202679%3Bad%3DCILyIRDd5g0Y5gsgASgEMJOQATiY0QFAqOoTSPKbGFDrmUBYn7KhAmDm_w9otIIocAF4A4gBAJABAJgBAKIBEjE1NjEwNzA3MTYxMTUyOTU3ObIBCENSRUFUSVZFuAEBwAEAyAEA0AEA2AEA6AHz0pu8_Ss%3Bxid%3D156107071611529579%3Bdcr%3D1%3Beav%3D%24SUGR_EVENT_ARGUMENT%24%3B%24SUGR_EVENT_PARAM%24%3Beov%3D%24SUGR_EVENT_OBJ%24%3Bmpws%3D%24SUGR_AD_WIDTH%24%3Bmphs%3D%24SUGR_AD_HEIGHT%24%3Bdsd%3D%24SUGR_DETERMINED_DOMAIN%24%3Bsnvs%3D%24SNAP_IN_VIEW%24%3Bsls%3D%24APP_SUGR_LOCATION%24%3Bsvn%3D%24APP_SUGR_VERSION%24%3Bals%3D%24APP_ADT_LOCATION%24%3Bavn%3D%24APP_ADT_VERSION%24%3Bspr%3D%24SUGR_QUERY_PARAMETERS%24&rn=1511149463, line 4: NS_ERROR_FAILURE: 
+JavaScript error: https://sdk.vindicosuite.com/verify/v2/verify.js?event=1&iid=SM__adt__55526847414041511149463-1170402309&pid=0&lid=0&clid=3&aid=0&cid=0&crid=0&pt=3&ppid=1&pioid=&pbkid=324904&pcid=1051883&plid=555268&dur=0&adw=160&adh=600&uebu=https%3A%2F%2Fx.vindicosuite.com%2Fevent%2F%3Fe%3D%24SUGR_CUSTOM_EVENT_ID%24%3Bl%3D555268%3Bb%3D4741404%3Bc%3D1051883%3Bsmuid%3D%3Bmsd%3D%3Ba%3D262121%3Bta%3D1511149463%3Btk%3D65502%3Bcr%3D2379826077%3Bad%3DCITyIRDd5g0Y5gsgASgEMJOQATiY0QFAqOoTSPKbGFDrmUBYnLKhAmDp_w9ot4IocAF4A4gBAJABAJgBAKIBEzM1NjMwNDg4NTE3MzI2MjE2MzCyAQhDUkVBVElWRbgBAcABAMgBANABANgBAOgBytKbvP0r%3Bxid%3D3563048851732621630%3Bdcr%3D1%3Beav%3D%24SUGR_EVENT_ARGUMENT%24%3B%24SUGR_EVENT_PARAM%24%3Beov%3D%24SUGR_EVENT_OBJ%24%3Bmpws%3D%24SUGR_AD_WIDTH%24%3Bmphs%3D%24SUGR_AD_HEIGHT%24%3Bdsd%3D%24SUGR_DETERMINED_DOMAIN%24%3Bsnvs%3D%24SNAP_IN_VIEW%24%3Bsls%3D%24APP_SUGR_LOCATION%24%3Bsvn%3D%24APP_SUGR_VERSION%24%3Bals%3D%24APP_ADT_LOCATION%24%3Bavn%3D%24APP_ADT_VERSION%24%3Bspr%3D%24SUGR_QUERY_PARAMETERS%24&rn=1511149463, line 4: NS_ERROR_FAILURE: 
+JavaScript error: https://sdk.vindicosuite.com/verify/v2/verify.js?event=1&iid=SM__adt__55526647414071511149463923465305&pid=0&lid=0&clid=3&aid=0&cid=0&crid=0&pt=3&ppid=1&pioid=&pbkid=324904&pcid=1051883&plid=555266&dur=0&adw=728&adh=90&uebu=https%3A%2F%2Fx.vindicosuite.com%2Fevent%2F%3Fe%3D%24SUGR_CUSTOM_EVENT_ID%24%3Bl%3D555266%3Bb%3D4741407%3Bc%3D1051883%3Bsmuid%3D%3Bmsd%3D%3Ba%3D262118%3Bta%3D1511149463%3Btk%3D51739%3Bcr%3D924202679%3Bad%3DCILyIRDd5g0Y5gsgASgEMJOQATiY0QFAqOoTSPKbGFDrmUBYn7KhAmDm_w9otIIocAF4A4gBAJABAJgBAKIBEjE1NjEwNzA3MTYxMTUyOTU3ObIBCENSRUFUSVZFuAEBwAEAyAEA0AEA2AEA6AHz0pu8_Ss%3Bxid%3D156107071611529579%3Bdcr%3D1%3Beav%3D%24SUGR_EVENT_ARGUMENT%24%3B%24SUGR_EVENT_PARAM%24%3Beov%3D%24SUGR_EVENT_OBJ%24%3Bmpws%3D%24SUGR_AD_WIDTH%24%3Bmphs%3D%24SUGR_AD_HEIGHT%24%3Bdsd%3D%24SUGR_DETERMINED_DOMAIN%24%3Bsnvs%3D%24SNAP_IN_VIEW%24%3Bsls%3D%24APP_SUGR_LOCATION%24%3Bsvn%3D%24APP_SUGR_VERSION%24%3Bals%3D%24APP_ADT_LOCATION%24%3Bavn%3D%24APP_ADT_VERSION%24%3Bspr%3D%24SUGR_QUERY_PARAMETERS%24&rn=1511149463, line 4: NS_ERROR_FAILURE: 
+1511149515009	Marionette	INFO	New connections will no longer be accepted
+[Child 4819] WARNING: pipe error: Broken pipe: file /home/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1511150047005	geckodriver	INFO	Listening on 127.0.0.1:54022
+1511150049370	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1511150051076	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1511150051577	Marionette	INFO	Enabled via --marionette
+2017-11-19 19:54:13.370 plugin-container[4928:873738] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511150054201	Marionette	INFO	Listening on port 54032
+1511150054314	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511150054375	Marionette	DEBUG	Register listener.js for window 2147483649
+1511150054532	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511150055055	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511150055055	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511150057298	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bestbuy.com/"
+1511150059337	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511150060016	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511150060340	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bestbuy.com/"
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: https://d1af033869koo7.cloudfront.net/psp/platform/default/247fwk.js, line 7: TypeError: parent.SN.Conf is undefined
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript error: https://sdk.vindicosuite.com/verify/v2/verify.js?event=1&iid=SM__adt__5552664741407151115007928701577&pid=0&lid=0&clid=3&aid=0&cid=0&crid=0&pt=3&ppid=1&pioid=&pbkid=324904&pcid=1051883&plid=555266&dur=0&adw=728&adh=90&uebu=https%3A%2F%2Fx.vindicosuite.com%2Fevent%2F%3Fe%3D%24SUGR_CUSTOM_EVENT_ID%24%3Bl%3D555266%3Bb%3D4741407%3Bc%3D1051883%3Bsmuid%3D%3Bmsd%3D%3Ba%3D262118%3Bta%3D1511150079%3Btk%3D29389%3Bcr%3D1800350903%3Bad%3DCILyIRDd5g0Y5gsgASgEMJOQATiY0QFAqOoTSPKbGFDrmUBYn7KhAmDm_w9otIIocAF4A4gBAJABAJgBAKIBEjk4MDAxMDM0MzIxNTc3MTc2OLIBCENSRUFUSVZFuAEBwAEAyAEA0AEA2AEA6AGPn8G8_Ss%3Bxid%3D980010343215771768%3Bdcr%3D1%3Beav%3D%24SUGR_EVENT_ARGUMENT%24%3B%24SUGR_EVENT_PARAM%24%3Beov%3D%24SUGR_EVENT_OBJ%24%3Bmpws%3D%24SUGR_AD_WIDTH%24%3Bmphs%3D%24SUGR_AD_HEIGHT%24%3Bdsd%3D%24SUGR_DETERMINED_DOMAIN%24%3Bsnvs%3D%24SNAP_IN_VIEW%24%3Bsls%3D%24APP_SUGR_LOCATION%24%3Bsvn%3D%24APP_SUGR_VERSION%24%3Bals%3D%24APP_ADT_LOCATION%24%3Bavn%3D%24APP_ADT_VERSION%24%3Bspr%3D%24SUGR_QUERY_PARAMETERS%24&rn=1511150079, line 4: NS_ERROR_FAILURE: 
+JavaScript error: https://sdk.vindicosuite.com/verify/v2/verify.js?event=1&iid=SM__adt__55526847414041511150079-1758495621&pid=0&lid=0&clid=3&aid=0&cid=0&crid=0&pt=3&ppid=1&pioid=&pbkid=324904&pcid=1051883&plid=555268&dur=0&adw=160&adh=600&uebu=https%3A%2F%2Fx.vindicosuite.com%2Fevent%2F%3Fe%3D%24SUGR_CUSTOM_EVENT_ID%24%3Bl%3D555268%3Bb%3D4741404%3Bc%3D1051883%3Bsmuid%3D%3Bmsd%3D%3Ba%3D262121%3Bta%3D1511150079%3Btk%3D1675%3Bcr%3D2313386448%3Bad%3DCITyIRDd5g0Y5gsgASgEMJOQATiY0QFAqOoTSPKbGFDrmUBYnLKhAmDp_w9ot4IocAF4A4gBAJABAJgBAKIBEzg2OTA2MDE2NDgxMzI0MzYxMDWyAQhDUkVBVElWRbgBAcABAMgBANABANgBAOgBlJ_BvP0r%3Bxid%3D8690601648132436105%3Bdcr%3D1%3Beav%3D%24SUGR_EVENT_ARGUMENT%24%3B%24SUGR_EVENT_PARAM%24%3Beov%3D%24SUGR_EVENT_OBJ%24%3Bmpws%3D%24SUGR_AD_WIDTH%24%3Bmphs%3D%24SUGR_AD_HEIGHT%24%3Bdsd%3D%24SUGR_DETERMINED_DOMAIN%24%3Bsnvs%3D%24SNAP_IN_VIEW%24%3Bsls%3D%24APP_SUGR_LOCATION%24%3Bsvn%3D%24APP_SUGR_VERSION%24%3Bals%3D%24APP_ADT_LOCATION%24%3Bavn%3D%24APP_ADT_VERSION%24%3Bspr%3D%24SUGR_QUERY_PARAMETERS%24&rn=1511150079, line 4: NS_ERROR_FAILURE: 
+JavaScript error: https://secure.img-cdn.mediaplex.com/content/0/32650/238763/GWL_Snowland_728x90_Awareness/index.html?mpck=adfarm.mediaplex.com%2Fad%2Fck%2F32650-238763-26093-92%3Fmpt%3D1511150117238992%26mpcr%3D101941858%26mpcrset%3Droot&mpt=1511150117238992&mpqs=mpt%3D1511150117238992&mpssl=1&mpvc=https://googleads.g.doubleclick.net/dbm/clk%3Fsa%3DL%26ai%3DCG3UWJVISWpDLDoX8kgPb9p3YDaepkcJO_4Ko9eYGlLHZjxMQASCu2_8xYMme-YaAgKAZoAGP4uWOA8gBCagDAaoE0gJP0OPE9evOIe9_Mhu08EDOfFXhZ19oeiRjmRV0MuF9w2aC0nlv34xup1m1ZZI3wjnhNBwYDHT7Zb2Yb1QgLiClHfcl25VB479ljRKgY5UocjPtM82wdJZXd8ThDRqnWHwQl255WVkPkM3KpLtguPP_qWkrXWLDuGWQgar9YuTOIc42ZCQudmHfy4qA9JvvtCLVoue1JaNYf4cenVcN2cs0ec03UCIGvNOaLbWk212AevKabDrtFvuT6nNgyeRVwLI0Hrtv3fpnjm84CfyI1ZtJBNp_5ORXwaYnj8fQ5eiKkcY_EbAbuNGquwyOYP1onU2FtinvJ8xo_fwsFtkcHtPJ8hGePHCAS2fpq0URgfZpLlyPRr4EH8ktHhkniixFroz0whDtmafK-E4DhSt2nIJUM-pTBFr1NMjzC7A-vWoYaJKcJL24wmBYjmwh0zRtBIrSKuAEA5AGAaAGTYAH2Z2acagHpr4b2AcA0ggHCIBhEAEYAYAKA8gTreqhAtATANgTAw%26num%3D1%26cid%3DCAASEuRoPHVOyxTq-3i_GYIELW2c5Q%26sig%3DAOD64_3NxHEGICTqgRQZ3Gk5TJsIui1Jiw%26client%3Dca-pub-2794041393474024%26dbm_c%3DAKAmf-Amqb5wqufA029Q6ANqa3AY7YaUT1nYQgeWbU9q74YaAMA3ro0Grw50Sq5mOli0DEe7C11A%26dbm_d%3DAKAmf-Csl_lhMwrZaAbxvjySb3csm2o07mGdM4NpwJ4ST2CnAjvHsrtq4tsor7FCK5ciSqMdzttsJ7I1CEW8120FPrO5wEkxIikxZkRVDQsK3FyX1m-jKzJn8Wf-JsQOszJcZ0h9jlGf9HYL4aKsjPhf_me-5Rc-vpwd4-IF7DIWSD7EfXwascNhER0U-bIeS8DJR9-9YopApjfF6HiD-pXfwbFwhn2-Fmz2zqwnuL3JBRtEwu_Gwb9kacxgIUkYZALvjQkHonOLUwSPTXLVFSHxHMEagK_oKcCrTiYPTb-LpzBH7q9pSpYZenyzZgVSpNtpsbHY33n_K4iEfQ22cE5ooIpx_UEQZjNwCjxqRXoFtiYXYkU--IRkI1FCSrzYKtuavvnpftY9%26adurl%3D, line 156: ReferenceError: dhtml is not defined
+1511150136450	Marionette	INFO	New connections will no longer be accepted
+1511150392573	geckodriver	INFO	Listening on 127.0.0.1:54982
+1511150395390	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1511150397807	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1511150398279	Marionette	INFO	Enabled via --marionette
+2017-11-19 19:59:59.993 plugin-container[4985:882112] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511150400716	Marionette	INFO	Listening on port 54994
+1511150401549	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511150401607	Marionette	DEBUG	Register listener.js for window 2147483649
+1511150401683	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511150402121	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511150402122	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511150404294	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bestbuy.com/"
+1511150405955	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511150406486	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511150406749	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bestbuy.com/"
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511150475343	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511157177154	geckodriver	INFO	Listening on 127.0.0.1:63442
+1511157179594	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1511157182512	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1511157183316	Marionette	INFO	Enabled via --marionette
+2017-11-19 21:53:07.201 plugin-container[5548:958851] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511157187916	Marionette	INFO	Listening on port 63454
+1511157188249	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511157188325	Marionette	DEBUG	Register listener.js for window 2147483649
+1511157188594	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511157189231	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511157189231	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511157193660	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bestbuy.com/"
+1511157195818	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511157196400	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511157198127	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bestbuy.com/"
+JavaScript error: https://d1af033869koo7.cloudfront.net/psp/platform/default/247fwk.js, line 7: TypeError: parent.SN.Conf is undefined
+1511157266926	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511157594688	geckodriver	INFO	Listening on 127.0.0.1:64513
+1511157597120	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1511157599371	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1511157599963	Marionette	INFO	Enabled via --marionette
+2017-11-19 22:00:01.738 plugin-container[5611:981243] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511157602577	Marionette	INFO	Listening on port 64525
+1511157603453	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511157603507	Marionette	DEBUG	Register listener.js for window 2147483649
+1511157603890	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511157604394	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511157604395	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511157606682	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bestbuy.com/"
+1511157608487	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511157609582	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511157609916	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bestbuy.com/"
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?st=computers+in+all&_dyncharset=UTF-8&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?st=computers+in+all&_dyncharset=UTF-8&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys, line 4: ReferenceError: osdlfm is not defined
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511157678662	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511238453162	geckodriver	INFO	Listening on 127.0.0.1:64981
+1511238455960	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1511238460899	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1511238461704	Marionette	INFO	Enabled via --marionette
+2017-11-20 20:27:49.212 plugin-container[10753:2232905] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511238470119	Marionette	INFO	Listening on port 64993
+1511238470966	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511238471044	Marionette	DEBUG	Register listener.js for window 2147483649
+1511238472180	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511238473087	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511238473088	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511238477848	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bestbuy.com/"
+1511238480487	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511238481599	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511238481956	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bestbuy.com/"
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript error: https://fw.adsafeprotected.com/rjss/bs.serving-sys.com/104097/18749277/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=22199086&PluID=0&w=160&h=600&ord=1511238537&ucm=true&ncu=$$https://x.vindicosuite.com/click/?v=5;m=2;l=555268;c=1051883;b=4741404;ts=1511238537;ui=K57YqlhDjOtiGA6LUe7g__wPSwMq3fU4duOwwY-35sjjV5GpFAOJ3awMyf3mFadTDdBHW-m_w-X7QL7mQ4ACbA;ad=CITyIRDd5g0Y5gsgASgEMJOQATiY0QFAqOoTSPKbGFDrmUBYnLKhAmDp_w9ot4IocAF4A4gBAJABAJgBAKIBEzcyNDU1ODE2NjkzMjg3NDQ2MjiyAQhDUkVBVElWRbgBAcABAMgBANABANgBAOgB0p7Y5v0r;xid=7245581669328744628;ep=1;dct=https://googleads.g.doubleclick.net/dbm/clk%3Fsa%3DL%26ai%3DC99aTh6sTWv6TLISTkwPn1Z74CYKd7cJOpfWe-Y8Gi4j9lM8IEAEgrtv_MWDJnvmGgICgGaABhpqToAPIAQmoAwGqBMcCT9A9xAuGBTfdaHQQU2-5maaakLT2XUtFVhqx-rMeqmJ68nknt4eaFTiAYGJ085uktrkKdlC7qjtO40Vhre4bODFcR1FufR3MdVTOMWjmlJZ5-0th_5V22GY5y1iuqCOh9kt2edPQ5zbE9s0oWq7quIosjXG2epeJhTM9T9UWKYpySweyoKbhdd46iv_YlYhc94nkXy4F2EvlM0bF-UXWl_QLLED9scKzUNUmr8Ontqpx5a8zsYR8IRjPOe0SAbNjzUwktNOHTPHDAAamVqhWmP9nRBMzj43OWwTcxlYiQDqkHC25pI9cd-Nz4WuSX62BBKQBrbAPYlb8ySaQPsHEcT1uiG58qXjxpVqK2JHj31DDGORXKMEK1cGF2EubATaGx8VUfwk-FZ3G0wH6zlGipfUYRW3MIMLfFw5vfACPLTgUAQlVVQMo4AQDkAYBoAZNgAfi5exfqAemvhvYBwDSCAcIgGEQARgBgAoDyBOZnp8C0BMA2BMD%26num%3D1%26cid%3DCAASEuRogILLcwt6-1xrkbWeQ8vNXg%26sig%3DAOD64_3_YBTpvehL-t0uPv-PFrMYnFSrvw%26client%3Dca-pub-2794041393474024%26dbm_c%3DAKAmf-D8L0roxXEven67GCvxwpyixhSpLfDrM2lpMM1SA7NREiEbUGnGxLbLViusVlTlGbc9vtWi%26dbm_d%3DAKAmf-BWhNHdeOK3CX6h3vFEq_x19abnAMzdL43sYjuqi-qa-rpMV_kh9F7pXmTUuOY8sq8Ide3xiAMB4TKvqwZnU1ff0zGWieY5XTWdsanJkXRCnTpQyKD7-MbyzgZUouJU3SVo9xl0PofxpEmEmighXVnmsQofIIx63q6Gg2Leo3OM9NgQY-aSZWwV7UItnA_z9-xs7LORsu5Bl4arQ69jJQYZSDzROSQZwqfiwsN3p0Y2nl0xdlIad6ebvpc4DrpN8MunpgHrt2w7xj7WiaPRXPjTiRGgV6JT8XlUTXp8OHRtAP53SWxPZeNgBL-QmSy3K9uj_6MHurCiAmXf3JtH045GlAFOk5lctWIm6yJzafm31Y76rKhPuVD6F5GMgOoTfb37mzTE%26adurl%3D$$, line 154: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://fw.adsafeprotected.com/rjss/bs.serving-sys.com/104097/18749271/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=22199083&PluID=0&w=728&h=90&ord=1511238537&ucm=true&ncu=$$https://x.vindicosuite.com/click/?v=5;m=2;l=555266;c=1051883;b=4741407;ts=1511238537;ui=5YVqEk2vmvOxbKtTXHTcXVLFjIuthBfX3SeVGgy-PqHqJYL5vj0AsmwraqwKMtwF2RaHP75abN8ZDYMbcSmEXQ;ad=CILyIRDd5g0Y5gsgASgEMJOQATiY0QFAqOoTSPKbGFDrmUBYn7KhAmDm_w9otIIocAF4A4gBAJABAJgBAKIBEzU3MzExMzQ3NTk5ODg0OTA0MTeyAQhDUkVBVElWRbgBAcABAMgBANABANgBAOgB1p7Y5v0r;xid=5731134759988490417;ep=1;dct=https://googleads.g.doubleclick.net/dbm/clk%3Fsa%3DL%26ai%3DCtRZUh6sTWqXYMILRkwPjxJagBoKd7cJOlZrjyIgGi4j9lM8IEAEgrtv_MWDJnvmGgICgGaABhpqToAPIAQmoAwGqBMYCT9D0__8K_tvN5u0rXB197nsy2NIIKpxzymlptMBQQG7_4fwjCuMpgi1uZ34ibi9mXceZAkux9dsxhZUSTlpQjugSz5Jo8YJWZeY838THgQ3m_QpsU3sIk0KFO4N0NjdU64WVnq_-4Tb6l_qRvMsnL22iKEEuKLdezZ1aidn5dE_5b_NT3ft7jJ-2I3OlxIglPyJttj_jczpv-bD5KyZRDljf8AafVcYylqjmz0LgVrR8E5JSz8zPjeYfUkXpdMosW23-ovEQyZSd-oyLxNlrPfem9X3OgbmwfkcoIlB6zWRrgtlmWqwGCG0ZxmJECjoNxmrO6j_Bvqzt5qOzl2dKjJjUMh5k9dj-7fpeLccmPvaE8a06h55WJ2n9UOueRTzeb8MdqiRZEmOvEQNjAk6w_jUhWR9CziGXoz6Wtr36tp1MzI6FCwHgBAOQBgGgBk2AB-Ll7F-oB6a-G9gHANIIBwiAYRABGAGACgPIE5menwLQEwDYEwM%26num%3D1%26cid%3DCAASEuRohM8NsYT7C0ibwY4LphRp7g%26sig%3DAOD64_1lSa7yra0Ay-OxVYVhYNVh_Pe3Jg%26client%3Dca-pub-2794041393474024%26dbm_c%3DAKAmf-AcdpHOnKrQZhKRwaVSAHQ5BtCVFFNmFUToIejIFRwS-KuacEnUWyGTdn6XHlYYdxN49I64%26dbm_d%3DAKAmf-BU1MD205O6qVmik2Q0ffX0LcnLkSoQSZTWwu3qfVCLpWb5g7_UN4FwZ8cStqBmTLZSNgMEXxKJa5-hXeW0MoXenmGrBgJ_ZErA2Ed0xuQ2VALMEXU3_W409lBIW_Hytuf5W8FovEn1eIkh1OorL69zhv8f_NHhTPEGVCO9d12WaJJqtAe0hGSbUPckEPAZ2gKr2f4QJ7YZS07Wv0k-BQ0TcgnEKNvpTRtA5l2fliSYmLsHW4L2qyqwV36_k16Msnxn6zv9aLDH8WXXJmX2LScJ0T0qxls2lWTZv_4paRO5wtlyyiM2CT8X_YeDHmlnc310AS7BPB3b7hqHw8GM-ssMgyUJDWZHZrvQWOUMnXoldVodLw1qOnrM55kqwNvbmJ2-AP8h%26adurl%3D$$, line 154: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?st=headphones+in+all&_dyncharset=UTF-8&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://secure.img-cdn.mediaplex.com/content/0/32650/238763/GWL_Snowland_728x90_Awareness/index.html?mpck=adfarm.mediaplex.com%2Fad%2Fck%2F32650-238763-26093-92%3Fmpt%3D1511238545126874%26mpcr%3D101941858%26mpcrset%3Droot&mpt=1511238545126874&mpqs=mpt%3D1511238545126874&mpssl=1&mpvc=https://googleads.g.doubleclick.net/dbm/clk%3Fsa%3DL%26ai%3DCp5nAkasTWprfB4n--QOTzIHQB6epkcJO_4Ko9eYGlLHZjxMQASCu2_8xYMme-YaAgKAZoAGP4uWOA8gBCagDAaoEyAJP0JC-uKBQmgrLsvxGSRjnqxDnYhcxbm3GkS7NC62D69iyYTlNvsygUUzPab5Slt3vgwJyP8LBfTuBNC5taAp5hJW9OfS2uWtko8zyAtQY7vfyz0SP2H7711Zg3oeTcrQlnIzb_3eHY31hfUkHovSmOfel48qGJ-QmFvaF7WRihMrvrfWBkWVNuv0UFo3zPncB9_vIfLuiHrTKyDpaTYGxhV6kGvWkqG3Uur1HINszCvot79uT1OVKZwthnS5ZbJIBitrh1HFK91oEuj11_NYYqYcyXNU_BW6a-WexZ0Is-eQDNjyw6b8WOM3b1OeQ9QsJuG8KHOTJTUE96Mgxe6X8qp_Ct31pSCDxDMURvsWFVbpixNLlvYKpLOfHXCB6Cv2NP8kMhR0QOMp0zDSZIS30LZuije4UuSeGGdX-kH-4PlYxaikHWnXf4AQDkAYBoAZNgAfZnZpxqAemvhvYBwDSCAcIgGEQARgBgAoDyBOt6qEC0BMA2BMD%26num%3D1%26cid%3DCAASEuRowdvByr4GfyxIvuK6oP0HSA%26sig%3DAOD64_1iLHlemjKtPFB5IobWlUknHxXNQQ%26client%3Dca-pub-2794041393474024%26dbm_c%3DAKAmf-D4q7mcIccrZlrzaPTja7JxRONgru9i8al-KJ4l7DbzAN_SkqBgBzG158o0KDKQzMk6rFWJ%26dbm_d%3DAKAmf-DO91hPQTkbSe2g22FCTV3B5QYU1HxW4CI36Q4tZiN2kcnP8upa1l0OQOCKy3AJXf9Ue6hQSfGK-VUYWnZm5ZbqyKCcQaGtj5OLTDaHSiudC8SBjUwdT8j3Oy-M7kAdI1AmrRZF96JbRi8PQjNFKtDtcbQZLydaExXGqoCLM7t1EFCz1PjgDda8W52dSAVvTNKabXrHFaw1bwSbtGio1Yom2aUMPDoVPIytWcSbTRsRJTAq1KwMtXicp6nKdNzars137dHtnJg1nFYI-LN6T7g6h1FC47mPvEXycGON_MJSNiBrAbRvAJGgHrajTQkZmQ53pc3AQWkv8A8pQJvJO7J4qcNo_nF8V8rg46fNRS_V-m2dBkRp5tz1gc7l41FPjkuSuaHB%26adurl%3D, line 156: ReferenceError: dhtml is not defined
+1511238551577	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511238866335	geckodriver	INFO	Listening on 127.0.0.1:49752
+1511238866969	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1511238869384	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1511238869955	Marionette	INFO	Enabled via --marionette
+2017-11-20 20:34:33.029 plugin-container[10815:2244889] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511238880059	Marionette	INFO	Listening on port 49756
+1511238880541	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511238880607	Marionette	DEBUG	Register listener.js for window 2147483649
+1511238881084	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511238881874	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511238881874	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511238884713	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bestbuy.com/"
+1511238886649	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511238887632	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511238887994	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bestbuy.com/"
+JavaScript error: https://d1af033869koo7.cloudfront.net/psp/platform/default/247fwk.js, line 7: TypeError: parent.SN.Conf is undefined
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript error: https://sdk.vindicosuite.com/verify/v2/verify.js?event=1&iid=SM__adt__55526647414071511238937-1053449689&pid=0&lid=0&clid=3&aid=0&cid=0&crid=0&pt=3&ppid=1&pioid=&pbkid=324904&pcid=1051883&plid=555266&dur=0&adw=728&adh=90&uebu=https%3A%2F%2Fx.vindicosuite.com%2Fevent%2F%3Fe%3D%24SUGR_CUSTOM_EVENT_ID%24%3Bl%3D555266%3Bb%3D4741407%3Bc%3D1051883%3Bsmuid%3D%3Bmsd%3D%3Ba%3D262118%3Bta%3D1511238937%3Btk%3D68123%3Bcr%3D3217601514%3Bad%3DCILyIRDd5g0Y5gsgASgEMJOQATiY0QFAqOoTSPKbGFDrmUBYn7KhAmDm_w9otIIocAF4A4gBAJABAJgBAKIBEzc3MzA5MzUyOTcwMTAxODM0MTayAQhDUkVBVElWRbgBAcABAMgBANABANgBAOgB_dnw5v0r%3Bxid%3D7730935297010183416%3Bdcr%3D1%3Beav%3D%24SUGR_EVENT_ARGUMENT%24%3B%24SUGR_EVENT_PARAM%24%3Beov%3D%24SUGR_EVENT_OBJ%24%3Bmpws%3D%24SUGR_AD_WIDTH%24%3Bmphs%3D%24SUGR_AD_HEIGHT%24%3Bdsd%3D%24SUGR_DETERMINED_DOMAIN%24%3Bsnvs%3D%24SNAP_IN_VIEW%24%3Bsls%3D%24APP_SUGR_LOCATION%24%3Bsvn%3D%24APP_SUGR_VERSION%24%3Bals%3D%24APP_ADT_LOCATION%24%3Bavn%3D%24APP_ADT_VERSION%24%3Bspr%3D%24SUGR_QUERY_PARAMETERS%24&rn=1511238937, line 4: NS_ERROR_FAILURE: 
+JavaScript error: https://sdk.vindicosuite.com/verify/v2/verify.js?event=1&iid=SM__adt__55526847414041511238937-168983108&pid=0&lid=0&clid=3&aid=0&cid=0&crid=0&pt=3&ppid=1&pioid=&pbkid=324904&pcid=1051883&plid=555268&dur=0&adw=160&adh=600&uebu=https%3A%2F%2Fx.vindicosuite.com%2Fevent%2F%3Fe%3D%24SUGR_CUSTOM_EVENT_ID%24%3Bl%3D555268%3Bb%3D4741404%3Bc%3D1051883%3Bsmuid%3D%3Bmsd%3D%3Ba%3D262121%3Bta%3D1511238937%3Btk%3D49640%3Bcr%3D2061410782%3Bad%3DCITyIRDd5g0Y5gsgASgEMJOQATiY0QFAqOoTSPKbGFDrmUBYnLKhAmDp_w9ot4IocAF4A4gBAJABAJgBAKIBEzQ2NDExODEzNDYwMjQ0MDE5NDGyAQhDUkVBVElWRbgBAcABAMgBANABANgBAOgBnNjw5v0r%3Bxid%3D4641181346024401941%3Bdcr%3D1%3Beav%3D%24SUGR_EVENT_ARGUMENT%24%3B%24SUGR_EVENT_PARAM%24%3Beov%3D%24SUGR_EVENT_OBJ%24%3Bmpws%3D%24SUGR_AD_WIDTH%24%3Bmphs%3D%24SUGR_AD_HEIGHT%24%3Bdsd%3D%24SUGR_DETERMINED_DOMAIN%24%3Bsnvs%3D%24SNAP_IN_VIEW%24%3Bsls%3D%24APP_SUGR_LOCATION%24%3Bsvn%3D%24APP_SUGR_VERSION%24%3Bals%3D%24APP_ADT_LOCATION%24%3Bavn%3D%24APP_ADT_VERSION%24%3Bspr%3D%24SUGR_QUERY_PARAMETERS%24&rn=1511238937, line 4: NS_ERROR_FAILURE: 
+JavaScript error: https://secure.img-cdn.mediaplex.com/content/0/32650/238763/GWL_Snowland_728x90_Awareness/index.html?mpck=adfarm.mediaplex.com%2Fad%2Fck%2F32650-238763-26093-92%3Fmpt%3D1511238947760072%26mpcr%3D101941858%26mpcrset%3Droot&mpt=1511238947760072&mpqs=mpt%3D1511238947760072&mpssl=1&mpvc=https://googleads.g.doubleclick.net/dbm/clk%3Fsa%3DL%26ai%3DC1nFMI60TWoiyLoPXkgONxoWQC6epkcJO_4Ko9eYGlLHZjxMQASCu2_8xYMme-YaAgKAZoAGP4uWOA8gBCagDAaoEzgJP0EUOAfCAsGl0rOIlwSgtJowLBsxYDafB9uLSzZTH7P_GrbgZnz45BLbbt8kC0Ot-NbQGZZZJM9en3rUQJbb6GotJwMqn9RQ1UTgVVwelKI1L4uoAIlsAfyjgm8JHydecAG_AvzBGqytBzzjfKvlFj6BRnB1-hEK08Rt8iSCUyJ3AwYQw1wHOqSZr-yrWn2JEUZb9CN7rkH-A4XF7uGFbNZH7mcwXFh1-wE1XnDWNR5HBdjfrYOXB40-GJ-zxMm3DEKkLnshEZLWcDioblAm8XIQf0gHKTOrrgr5YM0iOGRKeHwyH5mVD-xphBnuGilT3DJgf8wUu_hQgLmm-_8fppjldW3Ns0wB-ERc5wbwbToHQ_gE0J7YIBohA6pTkRx2qOGPNZiJcpBS0tbtjcA4E4GHbAGMGJJMxRsxMhxLE5xqE473U_KW5K4XOYMCk4AQDkAYBoAZNgAfZnZpxqAemvhvYBwDSCAcIgGEQARgBgAoDyBOt6qEC0BMA2BMD%26num%3D1%26cid%3DCAASEuRoQOvlaJ1QF1-xf495pLkttw%26sig%3DAOD64_1hQpG_YQf5giy6qdezuSAfXnhzzQ%26client%3Dca-pub-2794041393474024%26dbm_c%3DAKAmf-BvFRP4BMxK9vSa9LK5wXnua6oVt6M-8MA4O83XVnaYJOWouGv3ePcsTVhQA_zadU0izddN%26dbm_d%3DAKAmf-D4RMP8C4lS4CXRbWsBS1Uw0vDhLXcV4qY_Cn_hSoeuVq7pmooAovNXtBflNl5Ovj0X21F3D5MC1JMIIGM9wtGo8QrccoaKmO5tTEDbMHJbfieV2LiupCbC_vO978lQLieNC64e6-D4CPSjJgpqQXaYAo5DpNmyczQ4peoPix_J0KkRf43OC7R7OgLjS9swXebaGbilFI39CEjjg_RD7q6N1QmiExeWqiAnDmF9M6MsqZ0BmDp3LvIEi7d4pL0JHQRAz0WtyeK_NLAC8Gqb-vVpNKu5ZPbeC1O3v5MzvqZV9yCtbefQH2JFVySbaSXkgsUNZ1Tyjs8zD9CI4fzwORJWin7d0lMUFIzQu50ooMm_JiLBqGxWss2GWg0MyKRgoWSr7AHr%26adurl%3D, line 156: ReferenceError: dhtml is not defined
+JavaScript error: https://secure.img-cdn.mediaplex.com/content/0/32650/238763/GWL_Snowland_160x600_Awareness/index.html?mpck=adfarm.mediaplex.com%2Fad%2Fck%2F32650-238763-26093-90%3Fmpt%3D1511238947753192%26mpcr%3D101941852%26mpcrset%3Droot&mpt=1511238947753192&mpqs=mpt%3D1511238947753192&mpssl=1&mpvc=https://googleads.g.doubleclick.net/dbm/clk%3Fsa%3DL%26ai%3DCnHTVI60TWqj8LY6lkgP4noSABqepkcJOj6So9eYGlLHZjxMQASCu2_8xYMme-YaAgKAZoAGP4uWOA8gBCagDAaoEzwJP0Ax_gk9HG2WsLCBf83YW9tOGbyAZOOPPY57sNFGr4q2ui6k9gJzdO0Qnz-BbD-3l0l_rRwH3kwG_sdX8VDdWCyCHHWpsYP51kYVX5G-Km9RPJwZF1ljk4THSP-aCM4532wZUyJBDrwBPI1jnfJ85oMuiN2v2MbQO01LJipKeruCu_pUIpR60f_M4wGs1vkfu7HUy2KuPG38GHS68c6HAlhPoo0jThdv5qOOnlg7FczuU558NoFLh5GDweef6yuN3E8Kh7O6YFtbMl7XDqGSFaYQak82AJzzC_VYsflVVlyPa_S1ZXfH2tdbP17MzfiFtVJs5Rg-MJNIRvaLkZ726oXguesjbh2jO4_1YYoH0p7PyuxfU7KPRWZWVu5xa_JMuc_AIJ7z-bcbxNu0niMkkIoQU4_z23bC3rneEvkSU1V9pINlepXi48RbXnU-vD-AEA5AGAaAGTYAH2Z2acagHpr4b2AcA0ggHCIBhEAEYAYAKA8gTreqhAtATANgTAw%26num%3D1%26cid%3DCAASEuRoY7Sx_tdYq-QKgEnmaLAiAw%26sig%3DAOD64_1XpIXVNGlw-WcGx5nNB5_zKBy6mw%26client%3Dca-pub-2794041393474024%26dbm_c%3DAKAmf-Ap2sSG2m1mNNLv2hsgHb0ejCFfsc3G6OT0nEdiS8K7J_3k_dBuT3ohlHEn-Pl99rB7cddR%26dbm_d%3DAKAmf-CT5BSoeGXnhieD-UWITs8cs22cSuhnwmmEcyOb6aQ15hdVJSwMrx5FnvOPe2IjThDrmwpte_jzH9TiPb1fzJlkzG2No5es5x54w6GJe2gR-Sq0wdNofW58DYelngzbIsWajyiIBzFA1pUDJTYObKZrh_VTZFeorXf7-1L3tbcPnWux2mCnelOtMd-Du-jClB3h1tQqy6t36xfiXYS8X385ra06oHEapNaUxN6m1ldkHdCweq7C9RBeF_3IkMicSEWUr0UNHQdO8CcwfweDr8nfQ4SmjAHyayuthLl4oL4uMstQ707GGKykOgHi3vo4ihfIbxERlyjWvCESAyV22RPQLGr7sqUGVfIE5PWaLCmU2RYLxKzbQsUChGJQpFluQHXIrIRP%26adurl%3D, line 157: ReferenceError: dhtml is not defined
+1511238957160	Marionette	INFO	New connections will no longer be accepted
+1511239019330	geckodriver	INFO	Listening on 127.0.0.1:50402
+1511239020295	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1511239021583	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1511239022189	Marionette	INFO	Enabled via --marionette
+2017-11-20 20:37:04.651 plugin-container[10860:2249938] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511239025483	Marionette	INFO	Listening on port 50408
+1511239026529	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511239026603	Marionette	DEBUG	Register listener.js for window 2147483649
+1511239026986	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511239027332	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511239027333	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511239031416	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bestbuy.com/"
+1511239034395	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511239035011	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511239037888	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bestbuy.com/"
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript error: https://sdk.vindicosuite.com/verify/v2/verify.js?event=1&iid=SM__adt__555266474140715112390881141260829&pid=0&lid=0&clid=3&aid=0&cid=0&crid=0&pt=3&ppid=1&pioid=&pbkid=324904&pcid=1051883&plid=555266&dur=0&adw=728&adh=90&uebu=https%3A%2F%2Fx.vindicosuite.com%2Fevent%2F%3Fe%3D%24SUGR_CUSTOM_EVENT_ID%24%3Bl%3D555266%3Bb%3D4741407%3Bc%3D1051883%3Bsmuid%3D%3Bmsd%3D%3Ba%3D262118%3Bta%3D1511239088%3Btk%3D75923%3Bcr%3D3972279522%3Bad%3DCILyIRDd5g0Y5gsgASgEMJOQATiY0QFAqOoTSPKbGFDrmUBYn7KhAmDm_w9otIIocAF4A4gBAJABAJgBAKIBEzc4NDAxNTkwNzU1MzI1NjkxMjGyAQhDUkVBVElWRbgBAcABAMgBANABANgBAOgBqPT55v0r%3Bxid%3D7840159075532569121%3Bdcr%3D1%3Beav%3D%24SUGR_EVENT_ARGUMENT%24%3B%24SUGR_EVENT_PARAM%24%3Beov%3D%24SUGR_EVENT_OBJ%24%3Bmpws%3D%24SUGR_AD_WIDTH%24%3Bmphs%3D%24SUGR_AD_HEIGHT%24%3Bdsd%3D%24SUGR_DETERMINED_DOMAIN%24%3Bsnvs%3D%24SNAP_IN_VIEW%24%3Bsls%3D%24APP_SUGR_LOCATION%24%3Bsvn%3D%24APP_SUGR_VERSION%24%3Bals%3D%24APP_ADT_LOCATION%24%3Bavn%3D%24APP_ADT_VERSION%24%3Bspr%3D%24SUGR_QUERY_PARAMETERS%24&rn=1511239088, line 4: NS_ERROR_FAILURE: 
+JavaScript error: https://sdk.vindicosuite.com/verify/v2/verify.js?event=1&iid=SM__adt__55526847414041511239088-1309982758&pid=0&lid=0&clid=3&aid=0&cid=0&crid=0&pt=3&ppid=1&pioid=&pbkid=324904&pcid=1051883&plid=555268&dur=0&adw=160&adh=600&uebu=https%3A%2F%2Fx.vindicosuite.com%2Fevent%2F%3Fe%3D%24SUGR_CUSTOM_EVENT_ID%24%3Bl%3D555268%3Bb%3D4741404%3Bc%3D1051883%3Bsmuid%3D%3Bmsd%3D%3Ba%3D262121%3Bta%3D1511239088%3Btk%3D71340%3Bcr%3D1813253847%3Bad%3DCITyIRDd5g0Y5gsgASgEMJOQATiY0QFAqOoTSPKbGFDrmUBYnLKhAmDp_w9ot4IocAF4A4gBAJABAJgBAKIBEzEzODYxNjk4NjA0MTAwNzk2NzayAQhDUkVBVElWRbgBAcABAMgBANABANgBAOgBwvP55v0r%3Bxid%3D1386169860410079676%3Bdcr%3D1%3Beav%3D%24SUGR_EVENT_ARGUMENT%24%3B%24SUGR_EVENT_PARAM%24%3Beov%3D%24SUGR_EVENT_OBJ%24%3Bmpws%3D%24SUGR_AD_WIDTH%24%3Bmphs%3D%24SUGR_AD_HEIGHT%24%3Bdsd%3D%24SUGR_DETERMINED_DOMAIN%24%3Bsnvs%3D%24SNAP_IN_VIEW%24%3Bsls%3D%24APP_SUGR_LOCATION%24%3Bsvn%3D%24APP_SUGR_VERSION%24%3Bals%3D%24APP_ADT_LOCATION%24%3Bavn%3D%24APP_ADT_VERSION%24%3Bspr%3D%24SUGR_QUERY_PARAMETERS%24&rn=1511239088, line 4: NS_ERROR_FAILURE: 
+JavaScript error: https://sdk.vindicosuite.com/verify/v2/verify.js?event=1&iid=SM__adt__555266474140715112390881141260829&pid=0&lid=0&clid=3&aid=0&cid=0&crid=0&pt=3&ppid=1&pioid=&pbkid=324904&pcid=1051883&plid=555266&dur=0&adw=728&adh=90&uebu=https%3A%2F%2Fx.vindicosuite.com%2Fevent%2F%3Fe%3D%24SUGR_CUSTOM_EVENT_ID%24%3Bl%3D555266%3Bb%3D4741407%3Bc%3D1051883%3Bsmuid%3D%3Bmsd%3D%3Ba%3D262118%3Bta%3D1511239088%3Btk%3D75923%3Bcr%3D3972279522%3Bad%3DCILyIRDd5g0Y5gsgASgEMJOQATiY0QFAqOoTSPKbGFDrmUBYn7KhAmDm_w9otIIocAF4A4gBAJABAJgBAKIBEzc4NDAxNTkwNzU1MzI1NjkxMjGyAQhDUkVBVElWRbgBAcABAMgBANABANgBAOgBqPT55v0r%3Bxid%3D7840159075532569121%3Bdcr%3D1%3Beav%3D%24SUGR_EVENT_ARGUMENT%24%3B%24SUGR_EVENT_PARAM%24%3Beov%3D%24SUGR_EVENT_OBJ%24%3Bmpws%3D%24SUGR_AD_WIDTH%24%3Bmphs%3D%24SUGR_AD_HEIGHT%24%3Bdsd%3D%24SUGR_DETERMINED_DOMAIN%24%3Bsnvs%3D%24SNAP_IN_VIEW%24%3Bsls%3D%24APP_SUGR_LOCATION%24%3Bsvn%3D%24APP_SUGR_VERSION%24%3Bals%3D%24APP_ADT_LOCATION%24%3Bavn%3D%24APP_ADT_VERSION%24%3Bspr%3D%24SUGR_QUERY_PARAMETERS%24&rn=1511239088, line 4: NS_ERROR_FAILURE: 
+JavaScript error: https://fw.adsafeprotected.com/rjss/bs.serving-sys.com/104097/18749277/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=22199086&PluID=0&w=160&h=600&ord=1511239088&ucm=true&ncu=$$https://x.vindicosuite.com/click/?v=5;m=2;l=555268;c=1051883;b=4741404;ts=1511239088;ui=xNcasWo-eDuzQ4244pSyAChbAsl0bmtJ78MLLTx2WnbjV5GpFAOJ3awMyf3mFadTIREtkOMme2_fqS56Q3YYzw;ad=CITyIRDd5g0Y5gsgASgEMJOQATiY0QFAqOoTSPKbGFDrmUBYnLKhAmDp_w9ot4IocAF4A4gBAJABAJgBAKIBEzEzODYxNjk4NjA0MTAwNzk2NzayAQhDUkVBVElWRbgBAcABAMgBANABANgBAOgBwvP55v0r;xid=1386169860410079676;ep=1;dct=https://googleads.g.doubleclick.net/dbm/clk%3Fsa%3DL%26ai%3DCYdmPrq0TWtudNMmligPt2J2oAoKd7cJOpfWe-Y8Gi4j9lM8IEAEgrtv_MWDJnvmGgICgGaABhpqToAPIAQmoAwGqBMcCT9BkM9RpcKCmxpLaYtsZsU1hYFzsKvcBJAMbup94byhL86_zwFxk-K9lUVlyV8pzBufHbCOoWycucKKHTgaORefx6lLvjr8f0JOwToNmNCpiyBtnBqATa60aYaU7Lu2v7vKxNsGbBLzTeA-eBc78l5I5er89MmcA0fvmisQP8s-Ky2t3RmVu7HFLlYRrnC0aurZuIpXS7tRSgHSK3KZYbdw4X-AeZRFCbi9OPfrSCkk1dFMNQ6h6-n_LT_YblX7gq2mWW1UVC8jPqQe1nWpQQ6iwaaHlfR_r5QXXkEmpHAucsggBCXAqvqss68vbSOGKF7lrzWdvLgg221d7S6EP7cMNg7-PeAOugqsumyEUT7w5l4QFT64tQxDpliNXehahRt9aguIagkfblooDMdwSGTWP6KN4RwxZcnEHik1jFyUGNYlbvzsw4AQDkAYBoAZNgAfi5exfqAemvhvYBwDSCAcIgGEQARgBgAoDyBOZnp8C0BMA2BMD%26num%3D1%26cid%3DCAASEuRoUAN-39hMHws3H0Hm6M38pA%26sig%3DAOD64_2-_JZ9QtmUhLYHjlto5RMHISvdpg%26client%3Dca-pub-2794041393474024%26dbm_c%3DAKAmf-A7i0Gjl1O5ScyVs0oyl1GO2exH4oTqSQDIEVbiO8jHK0DIwCtdlZZWMavGoNDITB9yoOY0%26dbm_d%3DAKAmf-B2owG8D8neuqaV14XvTD31ssE8B--W6dUaTomoLv00nUm80Yr6lSac7FbTqbkmk-Tu6u-JAuG9IMvuwsZBb5OvduST26c-MTCTawbh4LZ07RHiJzc6-DI8BaGt8R2UWvo6qqKnzpigyLfMNpE0-Rcyh1oGdXhoHqgYA3wtqnmWVto6ZRfjYc1NzKtAQ2ZIraOsQvNUrnOp0luWYFyyobav12okuxDnZnZWHE-Kn74aKRcVHqTNvKVuBVGXbkzC8lujZ718ENpw34suQP-C_ul5ypOYrWptAuvxitgZry9o9seibLjyGVVEwTnX__t2UvC9OJ6te80Kk2UHlytC-UUbd_Cd9Ew4pFHxMqV_s_ETv4Qi_8uh44yJdnPElC0SYVtkd1hx%26adurl%3D$$, line 154: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://fw.adsafeprotected.com/rjss/bs.serving-sys.com/104097/18749271/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=22199083&PluID=0&w=728&h=90&ord=1511239088&ucm=true&ncu=$$https://x.vindicosuite.com/click/?v=5;m=2;l=555266;c=1051883;b=4741407;ts=1511239088;ui=SAMjhzvc-RUAOyFkI6qcesSfSF5ouCcB2ZSC4VdCV4_qJYL5vj0AsmwraqwKMtwFv_bdWZL7vg_0mdYOF8Sy5A;ad=CILyIRDd5g0Y5gsgASgEMJOQATiY0QFAqOoTSPKbGFDrmUBYn7KhAmDm_w9otIIocAF4A4gBAJABAJgBAKIBEzc4NDAxNTkwNzU1MzI1NjkxMjGyAQhDUkVBVElWRbgBAcABAMgBANABANgBAOgBqPT55v0r;xid=7840159075532569121;ep=1;dct=https://googleads.g.doubleclick.net/dbm/clk%3Fsa%3DL%26ai%3DCXjrRrq0TWrXrNM_tiQPGhIWICYKd7cJOlZrjyIgGi4j9lM8IEAEgrtv_MWDJnvmGgICgGaABhpqToAPIAQmoAwGqBMYCT9BW1NjdTgshJSaL4avNQofkpeaNt5N1jrZxdandNNXE3-lBIhGIvrh_ef_8xdJvFJvfPLfNBx47xtISCPUyS1ODOEAUjYdz3IAf4PP38IpkLpv0arvppYaEYsv0Y-gRZ5uoB9_hybImHbR0qLa_dTEHOFgUByncIw1dHpvDsGHNptIQntigJxtRUYgwGI3_cEC0eruadW3Dae5cluAqMSNT1o0eCRWTGNIxDS3QuxKTPHv2uF-OW1s7KddHGIvR9s82Z_lDOBHOGvcMPt4iG7mItw6tFdDS0f_lcoS3vc2EKlv9muVSapV92dgO63oUX84d8LqprmJdvDhvQ3-PYOIFize9rcuWUA0W_jK0YsNxM_9RQXFJzmUKLZIi962uobf6y56T74AK4UMvj_mPwemiICWSijRfYBZNj4B9lplFJ9GC7WDgBAOQBgGgBk2AB-Ll7F-oB6a-G9gHANIIBwiAYRABGAGACgPIE5menwLQEwDYEwM%26num%3D1%26cid%3DCAASEuRoGgGUjJJw9PZTjNi4R_FJUg%26sig%3DAOD64_2VHkASEP3COILXK89ki7Pnvg-V2A%26client%3Dca-pub-2794041393474024%26dbm_c%3DAKAmf-AP-e0hgf168sHDOoZomFK9qb6pGhGe8tND5TeX9Gkkdbg8PEVrLbH6SaJGqpjBVWWypImE%26dbm_d%3DAKAmf-DBemjKt_dvm6TuuP_Z1PkrRZIejvQ3ULE6Vpir_o6LpWjK6Xtiksti4VnK6Og_dF3pWQLd0BuAuxx6eAA_5iyNwtGcNXXSBAFNr7u-GCx9mCjwym7uabLLyP5a-IpzMw2zzx6djTCVOI6MZyf2YFq-3NWZn3xHNOnfjesgTgdlAEmBPJ5wxFnAm_8ep3SKBrIlCnyIcAfU2D2C8SRAEyOkoUaE7R4AwB9XKvbFo4JdzZAE2BkMQVgy4stkYOgPtLhgTxXtDAEphT_-f6qAD9mQgz0JyxrIj-8xG9i5oLj1GHdjaE_RSetn7wS5MCIHGQNYp_Ioz6N1pEqkzY4iDv0mWvciTGne6px67OQ1QqnKAUrSbfbTac0gyB5_xYS7aA-DEDjm%26adurl%3D$$, line 154: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://static.adsafeprotected.com/main.17.4.42.js, line 50: NS_ERROR_NOT_INITIALIZED: 
+1511239109017	Marionette	INFO	New connections will no longer be accepted
+1511239574128	geckodriver	INFO	Listening on 127.0.0.1:51821
+1511239574871	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1511239575712	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1511239576190	Marionette	INFO	Enabled via --marionette
+2017-11-20 20:46:17.853 plugin-container[10934:2259083] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511239578710	Marionette	INFO	Listening on port 51827
+1511239579872	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511239579918	Marionette	DEBUG	Register listener.js for window 2147483649
+1511239580294	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511239581805	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511239581805	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511239584146	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bestbuy.com/"
+1511239586274	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511239586831	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511239587090	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bestbuy.com/"
+JavaScript error: https://d1af033869koo7.cloudfront.net/psp/platform/default/247fwk.js, line 7: TypeError: parent.SN.Conf is undefined
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript error: https://sdk.vindicosuite.com/verify/v2/verify.js?event=1&iid=SM__adt__55526847414041511239635-1726365736&pid=0&lid=0&clid=3&aid=0&cid=0&crid=0&pt=3&ppid=1&pioid=&pbkid=324904&pcid=1051883&plid=555268&dur=0&adw=160&adh=600&uebu=https%3A%2F%2Fx.vindicosuite.com%2Fevent%2F%3Fe%3D%24SUGR_CUSTOM_EVENT_ID%24%3Bl%3D555268%3Bb%3D4741404%3Bc%3D1051883%3Bsmuid%3D%3Bmsd%3D%3Ba%3D262121%3Bta%3D1511239635%3Btk%3D80635%3Bcr%3D1459288020%3Bad%3DCITyIRDd5g0Y5gsgASgEMJOQATiY0QFAqOoTSPKbGFDrmUBYnLKhAmDp_w9ot4IocAF4A4gBAJABAJgBAKIBEzY0ODEyMzcyODAwODc1Mjg0NTCyAQhDUkVBVElWRbgBAcABAMgBANABANgBAOgBiaib5_0r%3Bxid%3D6481237280087528450%3Bdcr%3D1%3Beav%3D%24SUGR_EVENT_ARGUMENT%24%3B%24SUGR_EVENT_PARAM%24%3Beov%3D%24SUGR_EVENT_OBJ%24%3Bmpws%3D%24SUGR_AD_WIDTH%24%3Bmphs%3D%24SUGR_AD_HEIGHT%24%3Bdsd%3D%24SUGR_DETERMINED_DOMAIN%24%3Bsnvs%3D%24SNAP_IN_VIEW%24%3Bsls%3D%24APP_SUGR_LOCATION%24%3Bsvn%3D%24APP_SUGR_VERSION%24%3Bals%3D%24APP_ADT_LOCATION%24%3Bavn%3D%24APP_ADT_VERSION%24%3Bspr%3D%24SUGR_QUERY_PARAMETERS%24&rn=1511239635, line 4: NS_ERROR_FAILURE: 
+JavaScript error: https://secure.img-cdn.mediaplex.com/content/0/32650/238763/GWL_Snowland_728x90_Awareness/index.html?mpck=adfarm.mediaplex.com%2Fad%2Fck%2F32650-238763-26093-92%3Fmpt%3D1511239644103210%26mpcr%3D101941858%26mpcrset%3Droot&mpt=1511239644103210&mpqs=mpt%3D1511239644103210&mpssl=1&mpvc=https://googleads.g.doubleclick.net/dbm/clk%3Fsa%3DL%26ai%3DCWGvn3K8TWqqmBoebkwPeqbjoDaepkcJO_4Ko9eYGlLHZjxMQASCu2_8xYMme-YaAgKAZoAGP4uWOA8gBCagDAaoEzgJP0Cr6mAjzUMZKIZcq2WszkQtRI7RJhXb3JYHxJWEQDJJZe8i2Gg2lhdddxho-vuzlNcMdsxMSG1qxzQ0BpEzMuF7i-Uxz1ubgDJxPzwVjme0ZkzfjbVX5rF9RT5QxK7p1Jh6Obw7r3fR_L7DbDPZuAU1LNlyG6zQTHiEQMZZBZFbPtWIJH35KWDjn8ektognr5Twds2eCCMkqdEBES1TuVZITqi0TAgxOMpNoj4MBfj_rGrxCFPCj5sBfY_XJphhSapG4JufURpyB19EVJlQA1zY6sXITisZ4CRQMgSu0ZB_PrinnCWgEVdETrkGxUg08fYElGAsp5TClj57s8lfnZk6qZakBjd0e7oJW4EOOoevMFXYtAZO6yZLHIOasQTewRjrb6zwBHnhTzUHsau-rjhxJEzhrErtzGI_-ola6J3dcJwaKnuXC7cFRyEJ_4AQDkAYBoAZNgAfZnZpxqAemvhvYBwDSCAcIgGEQARgBgAoDyBOt6qEC0BMA2BMD%26num%3D1%26cid%3DCAASEuRoJClJB8G1cFGajkn9vWRyTg%26sig%3DAOD64_14Gog4TtLc_oUKisBpaLRMIjoSTw%26client%3Dca-pub-2794041393474024%26dbm_c%3DAKAmf-AWmgHRlwCddJnR7sK3FpEEH55Aox78O_st8-4ySjIFaDRZhnB6zlUeUbGwfWrBlNIUNXLT%26dbm_d%3DAKAmf-Ar-YbsZRk7pDNc2gsKFn1AO-M9xuCEkKxYf3zWAExxEwqnoRFD9S1vxmmwJyZ7W36O6HeOBuAneHQQXw2eUAoiVmpgoi-WjeAXMS9jxUt0N0U1pMkUw_-f1teLEwOnDJaBM3t0uOkKe6Leu5hyap2e1WTflZakmAA08lvlxSFIsAQIgdhyoUZag-VOWOnyYV-LGEGyvphonfh-Cs0lqx6Hgm-p6aYQvJ8G-YqO8sjKKI99nETM39ORd4oiTDaT8OgbQUzz9UU83f-qA3cVYh6Vs2chH4qRyiKlVhm7FiaoAXUnoUTYdkwrHqyVhEPG27S2n5gp9mjRVA5nywYO1zy2SeWJM1aWJ9SStHopKDrWZLwFIVSdYfqkjrNKnQ4XLjtS0PxE%26adurl%3D, line 156: ReferenceError: dhtml is not defined
+1511239655012	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511246683205	geckodriver	INFO	Listening on 127.0.0.1:65150
+1511246685685	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511246690152	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1511246691067	Marionette	INFO	Enabled via --marionette
+2017-11-20 22:44:54.989 plugin-container[11749:2449957] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511246695871	Marionette	INFO	Listening on port 65162
+1511246696820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511246696876	Marionette	DEBUG	Register listener.js for window 2147483649
+1511246697309	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511246697800	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511246697800	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511246699707	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bestbuy.com/"
+1511246701642	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511246702128	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511246702384	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bestbuy.com/"
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html, line 31: unreachable code after return statement
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html, line 31: unreachable code after return statement
+JavaScript error: https://fw.adsafeprotected.com/rjss/bs.serving-sys.com/104097/18749271/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=22199083&PluID=0&w=728&h=90&ord=1511246751&ucm=true&ncu=$$https://x.vindicosuite.com/click/?v=5;m=2;l=555266;c=1051883;b=4741407;ts=1511246751;ui=fUvWBM8nm_fNiAbHO3hLQCuKvjfCIXidg94N2QixpPrqJYL5vj0AsmwraqwKMtwF4j-GEG1444r-RQGJHAjQkg;ad=CILyIRDd5g0Y5gsgASgEMJOQATiY0QFAqOoTSPKbGFDrmUBYn7KhAmDm_w9otIIocAF4A4gBAJABAJgBAKIBEzQzNTk2MDczODIxNTY2MDExOTCyAQhDUkVBVElWRbgBAcABAMgBANABANgBAOgB7s7N6v0r;xid=4359607382156601190;ep=1;dct=https://googleads.g.doubleclick.net/dbm/clk%3Fsa%3DL%26ai%3DCuG4-ncsTWtv7KcmeigPS6ZCgBYKd7cJOlZrjyIgGi4j9lM8IEAEgrtv_MWDJnvmGgICgGaABhpqToAPIAQmoAwGqBMYCT9BSpQdWSpcqh0CO5zG8FtLoHzMRbB3gwbCoRH06cSeEIdLAiFk4R-m7vaCz3rMgRwyjK6nwOPQYLiF1q0BfdOHwXCV1UUgyAjv5n82pBNzUSc-lPrWGRm8Bcxm5SSeP9zvriPKqkP9pc3FkDxSfNWBGKWZUylfh9GvLxmm1Q0gf_i8dF9xmDU8aJ9radOThu7brFOJhKGW93bw8xpH5j27C3PymCQ76Ml3a5U7kQ8Hz1H_lemkUVNSHEUcmG1AkC-hZvaOxtT7B5hDeC3YyMHH_0nCLOnF2XQHCHZUpzdvhTyhwQpvCN5NkPi7hYOIjihFU3UghLxf1RroUM-VjESFo9IWpU__iz1dRob6vIXNAb_8JU4aefO4DcFIjGYNsgebmfBfc--SZIo1bg1ukxL_O-Rv-loh1VBomX6UvHfLZgU2GNxPgBAOQBgGgBk2AB-Ll7F-oB6a-G9gHANIIBwiAYRABGAGACgPIE5menwLQEwDYEwM%26num%3D1%26cid%3DCAASEuRoSrRsmPmc27j1J1fEOackPA%26sig%3DAOD64_2J_RQXXOe-xo7-sYK7O0MFLXV2RA%26client%3Dca-pub-2794041393474024%26dbm_c%3DAKAmf-Cz7Oxy5jAr1Dau6E2S4S6CKpnz8qy19HbraWlZ0aH4QxL60nsHJZ9go3RgmYcJfjQtRaw_%26dbm_d%3DAKAmf-CI4IUrZLeX_KnOEtaNc-nWtjXVXdNQ8VeN0IhIyqsJyUTjk47BlcAF2T_9tF8ntSvQpJxNnXHo71Mq8k5O97bMS_jVFzSmkT1kAMrCZw1oL-_3ipV9sG2mqPX6jLVoVt-UjMny21SwUBWAOo-us7vOIuOoSPwbgFFywR6rF6_IkANSq4Cup80d2D2IPTQL5ql8W7KhLz5Z_mfE3XhlDXvHx0lZUdsQVvkTDhBsaceaE1jRNhlbaT9jsCljz3998C9z-XVTTKHs9390AdzqTRh60dxWvA9DNii0Lb9Y4oCYuzDbkXPDA6oJFD9_l4WXHXY9eewAydJhhmDlEbpTMJNZLFV8NrDTLOzDpKGqal2Akn0x02gZTkVTMZAfhSe7RsplQ6_u%26adurl%3D$$, line 154: NS_ERROR_NOT_INITIALIZED: 
+1511246769703	Marionette	INFO	New connections will no longer be accepted
+[Child 11749] WARNING: pipe error: Broken pipe: file /home/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1511247345404	geckodriver	INFO	Listening on 127.0.0.1:50359
+1511247346265	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1511247347435	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1511247347918	Marionette	INFO	Enabled via --marionette
+2017-11-20 22:55:49.766 plugin-container[11840:2454471] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511247350577	Marionette	INFO	Listening on port 50363
+1511247351203	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511247351257	Marionette	DEBUG	Register listener.js for window 2147483649
+1511247351384	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511247351816	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511247351816	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511247353839	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bestbuy.com/"
+1511247356177	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511247356787	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511247357114	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bestbuy.com/"
+JavaScript error: https://d1af033869koo7.cloudfront.net/psp/platform/default/247fwk.js, line 7: TypeError: parent.SN.Conf is undefined
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-14/html/container.html, line 31: unreachable code after return statement
+JavaScript error: https://fw.adsafeprotected.com/rjss/bs.serving-sys.com/104097/18749277/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=22199086&PluID=0&w=160&h=600&ord=1511247408&ucm=true&ncu=$$https://x.vindicosuite.com/click/?v=5;m=2;l=555268;c=1051883;b=4741404;ts=1511247408;ui=CHE7tqRM10_LE3GOUbCiJgxaVZa1XOuhvv-_dapK8gDjV5GpFAOJ3awMyf3mFadTdamYhCOMwbYrL9OYrzNzjQ;ad=CITyIRDd5g0Y5gsgASgEMJOQATiY0QFAqOoTSPKbGFDrmUBYnLKhAmDp_w9ot4IocAF4A4gBAJABAJgBAKIBEzM1MDM5NDc0ODA3NjAzNTc0MjSyAQhDUkVBVElWRbgBAcABAMgBANABANgBAOgB4tv16v0r;xid=3503947480760357424;ep=1;dct=https://googleads.g.doubleclick.net/dbm/clk%3Fsa%3DL%26ai%3DCZdgDL84TWrPrDMfWkwPljp7wBIKd7cJOpfWe-Y8Gi4j9lM8IEAEgrtv_MWDJnvmGgICgGaABhpqToAPIAQmoAwGqBM0CT9BEXXFa-lekWm-c3vXx3OvH0yAEiOrykH_RHlcp_204Xe4KY8mtQYCYp5gK7aNIfbFrTaLg7-f-ogtJljc2-W_YqcJRBa1kzQp6Gx2gfmZdPxZuCnR1yANJZ2WuFyVWpup0N94AKvzvQryRlAZFHpM4y7lPgK-vRDTS_39AY210RrDo8oFIWSORDFPHt4eHyuYXEvLrCefSfkcnTZAytToWKklcDdNQprAepWHKzIuvlH4JsaWdyaTLQ8n4pETI5UcV6ZNy0rqK1-t6fNsQxdid61rgdPU9L9vp-4JLo1MRiLC_a1Bd1r412E-ptaS_i0dYcw6oSiBzzTrC_lNtxAa-EjBbUtKTBhA7AzH0apzA-04W652eBpc96xbMNa0ngNvWBWO4iEy1fKalWjHyHj4baCQXruQn3WGqaYyDpMvCm06ekCEHUOzvgpsI4AQDkAYBoAZNgAfi5exfqAemvhvYBwDSCAcIgGEQARgBgAoDyBOZnp8C0BMA2BMD%26num%3D1%26cid%3DCAASEuRoH6GoYsj4PM9_l5AywBdu-w%26sig%3DAOD64_3pMlNnhOBdvjyktkddSEn8OEYirQ%26client%3Dca-pub-2794041393474024%26dbm_c%3DAKAmf-BMQgfNFLIhmVQ-kWMAHB5WL_CNcY5_FRCr1NU_H_3YD9yykyNQ3TMU0-hTRFCHx2R7peZd%26dbm_d%3DAKAmf-DH-wHpSDy9ijDEcOSRJP0i_kF1Jnpy3nMuxGhfwK331cNoh1iJleeCb9pDyHWOAQ9DkEiOqnf_62U3s0LzmmniDKvHgDnd6XBuIkrWW0tv7UVRsSR1FFM9pXM1IVMKVyiCCcZUjapSBG2VwRLBoTAQXBSYQL4svlqw1YpS3M-tY-CEY01dDG7Q1xSl8SnN1hFMbkyjoGUyK9P7W-bOop8m-3gv-RHtRcNUglaLNYIgxDGuk6ZA5bQ57X_IXjdWsGN4X3_R0qqFG_VIZLAUMCUNXpmPEG2tywUxSUF5OeesjBgCm2YbNgcmoQTxKcf-3vVnOJpuGiwYveg49XAABAGHyUnG2TKDcdU5Ozap1tO_2V5sVNLUN3FvsutqUPzVgxfqRUZY%26adurl%3D$$, line 154: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://fw.adsafeprotected.com/rjss/bs.serving-sys.com/104097/18749271/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=22199083&PluID=0&w=728&h=90&ord=1511247408&ucm=true&ncu=$$https://x.vindicosuite.com/click/?v=5;m=2;l=555266;c=1051883;b=4741407;ts=1511247408;ui=M5AzO0aYlMcDuCLRjEiz4Y-oQvKwuCKIwM2E6Hv0h3bqJYL5vj0AsmwraqwKMtwFnITgXNdQ3g1JvL9zbtwJdg;ad=CILyIRDd5g0Y5gsgASgEMJOQATiY0QFAqOoTSPKbGFDrmUBYn7KhAmDm_w9otIIocAF4A4gBAJABAJgBAKIBEzI5OTQzMzc2MTU1NDkzMzgzMzCyAQhDUkVBVElWRbgBAcABAMgBANABANgBAOgBrdr16v0r;xid=2994337615549338330;ep=1;dct=https://googleads.g.doubleclick.net/dbm/clk%3Fsa%3DL%26ai%3DCios5L84TWpyBDYTRkwO62YSgAoKd7cJOlZrjyIgGi4j9lM8IEAEgrtv_MWDJnvmGgICgGaABhpqToAPIAQmoAwGqBMwCT9DAI347Ye6855hes4P35Jm5Y_Ou8VX5u6Z3CMNiCuz3AUMvgkvhLfqBkcBS_U0Z4p5J5JKJ6enFi-hF6RoAodYY-tou-f2cQ5nUh07nQnnE_vB6r6dxw9DsWx8hiubTMkyrlrSP0tKyeVnKJ3h-vWihb3zArXYriRFj_n82ujVSBvXvEWys3tT5qn0aiGCmHexz_qLw7SE3C1yqtV2loVweRLD9GKc34RiVlP4Lm5Q4PjQckng0usU6g947ZlFy3HnFDNfhRA_FcJdK2Es5jqeTAJJn-lB6YuWyLrGtTItk6acSr_-k1IdhJGN0erkmx0Yb2m7ujVcN2In0BYOSQhw-XtYfwAZOzwJPiG3ObALz0kK5ET-fnTB3WavZ_vrcPRPAffNt6MC85wJLZCAsCX4GSdT8iT6eCjaE0A0ih76KIZ7hol5ZMBzrarHgBAOQBgGgBk2AB-Ll7F-oB6a-G9gHANIIBwiAYRABGAGACgPIE5menwLQEwDYEwM%26num%3D1%26cid%3DCAASEuRoudBroJ6cViX_Y_i6okyR6A%26sig%3DAOD64_2NKolAeJIIlmDALeGO86BdfiyhZg%26client%3Dca-pub-2794041393474024%26dbm_c%3DAKAmf-DHcCYom91OOf5fNwpAf1oawbJsfZIlBUR48QSFlIwPyPs9PGd4jWw_xcsr6Dej0wMtwFEp%26dbm_d%3DAKAmf-AdVg86nZWNlHwewdeKvwhGP8K_iNJo7-xlRSUQIoI-TPLSoZvZREuK7UoIkHW0a9Gx8YuDJBtb0OzxitVx_6-w1O_cxWnGM75iEnKYGBIB3k4U3dJknqfXrB6U5SfvtTZXrm_M4rIAXVgg2HDoTHC_0FEgN33YsddO4XUrGtlR6PW6QYqLjESwh32o2RONOXJN6e6quHLF9TsIgTPvqD_2JcUjDCVPU1fhkHObva4VJ77OwgeMrsuXdyH5ezubSwqxuGBsQMcAQRlo24AqAOc4EY7i_YY-R-rsmfBiZ-rungMklzWXUcsXo9kj7qToDJ3_vVhaOTMNrMFCco2bGAFoAUG085eFeuljyaMtS3TtqUgCX9dhYpBpqwslfDhL4Y3iB_rP%26adurl%3D$$, line 154: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://d1af033869koo7.cloudfront.net/psp/platform/default/247fwk.js, line 7: TypeError: parent.SN.Conf is undefined
+JavaScript error: https://d1af033869koo7.cloudfront.net/psp/platform/default/247fwk.js, line 7: TypeError: parent.SN.UserAgentParser is undefined
+1511247427092	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511249489250	geckodriver	INFO	Listening on 127.0.0.1:55296
+1511249493237	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1511249499121	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1511249501542	Marionette	INFO	Enabled via --marionette
+2017-11-20 23:31:50.613 plugin-container[12446:2493180] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa223, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511249511348	Marionette	INFO	Listening on port 55311
+1511249511752	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511249511820	Marionette	DEBUG	Register listener.js for window 2147483649
+1511249512566	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511249513110	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511249513110	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511249516165	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bestbuy.com/"
+1511249519081	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511249520748	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511249521223	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bestbuy.com/"
+JavaScript error: https://d1af033869koo7.cloudfront.net/psp/platform/default/247fwk.js, line 7: TypeError: parent.SN.Conf is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?st=headphones+in+all&_dyncharset=UTF-8&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys, line 1: ReferenceError: osdlfm is not defined
+1511249594273	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511251922515	geckodriver	INFO	Listening on 127.0.0.1:60516
+1511251926629	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1511251932483	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1511251933644	Marionette	INFO	Enabled via --marionette
+2017-11-21 00:12:18.729 plugin-container[12733:2540290] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511251940180	Marionette	INFO	Listening on port 60531
+1511251940328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511251940388	Marionette	DEBUG	Register listener.js for window 2147483649
+1511251941194	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511251941777	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511251941778	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511251945262	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bestbuy.com/"
+1511251948832	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511251949728	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511251950070	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bestbuy.com/"
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: https://s.btstatic.com/tag.js line 8 > eval, line 5: Error: Loading chunk 0 failed.
+JavaScript error: https://d1af033869koo7.cloudfront.net/psp/platform/default/247fwk.js, line 7: TypeError: parent.SN.Conf is undefined
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511252020078	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1511993539303	geckodriver	INFO	Listening on 127.0.0.1:58214
+1511993544900	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1511993571194	Marionette	INFO	Enabled via --marionette
+2017-11-29 14:13:09.951 plugin-container[5646:1407258] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1511993609760	Marionette	INFO	Listening on port 58229
+1511993610668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511993610776	Marionette	DEBUG	Register listener.js for window 2147483649
+1511993614879	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511993616308	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511993616308	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511993622593	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bestbuy.com/"
+1511993627829	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511993628405	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511993628651	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bestbuy.com/"
+JavaScript error: https://d1af033869koo7.cloudfront.net/psp/platform/default/247fwk.js, line 7: TypeError: parent.SN.Conf is undefined
+JavaScript error: https://s3.amazonaws.com/medianetwork/House+and+MDF+Ads/Smart+Home+Vivint+Security/VivintSmartHome_970x66_A_1122-Unlimited_247monitoring_A/VivintSmartHome_970x66_A_1122-Unlimited_247monitoring_A/SHS_Media_Network_970x66_112817/970x66/21463-55_SHS_Digital_Banner_970x66.js, line 74: TypeError: cjs.Bitmap is not a constructor

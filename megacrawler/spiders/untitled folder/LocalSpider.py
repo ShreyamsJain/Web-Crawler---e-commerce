@@ -1,3 +1,4 @@
+
 import scrapy
 import pymongo
 from selenium import webdriver
@@ -48,7 +49,7 @@ class ComSpider(scrapy.Spider):
             yield response.follow(next_page, self.parse)
 """
         collection = self.getCollection()
-        global current_key
+        global current_key 
         '''
         for divcap in response.css('div.caption'):
             yield {'title': divcap.css('a.title ::text').extract_first()}
@@ -189,4 +190,4 @@ class ComSpider(scrapy.Spider):
         db = client.mydb
         collection = db.products
         return collection
-
+'''
